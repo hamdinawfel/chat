@@ -1,8 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-{
-  /* Add separate components */
-}
+
 function App() {
   return (
     <div>
