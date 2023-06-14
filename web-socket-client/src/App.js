@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-
+{
+  /* Add separate components */
+}
 function App() {
   return (
     <div>
@@ -372,6 +374,7 @@ function App() {
           </div>
         </div>
       </div>
+      
     </div>
   );
 }
