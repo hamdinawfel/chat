@@ -1,0 +1,8 @@
+# dependencies
+/web-socket-client/node_modules
+
+# testing
+/web-socket-client/coverage
+
+# production
+web-socket-client/build
